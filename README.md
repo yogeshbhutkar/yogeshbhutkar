@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Yogesh Bhutkar</h1>
 <h3 align="center">A full stack developer, flutter developer and UI/ UX designer.</h3>
-<img alt="Coding" width="400" src="https://media.tenor.com/29A6BwrbH8wAAAAi/appear-hi.gif">
+<img alt="Coding" align="center" width="400" src="https://media.tenor.com/29A6BwrbH8wAAAAi/appear-hi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbhutkar&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshbhutkar" /> </p>
 
