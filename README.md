@@ -1,18 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Yogesh Bhutkar</h1>
-<h3 align="center">A full stack developer, flutter developer and UI/ UX designer.</h3>
-<img alt="Coding" align="center" width="400" src="https://media.tenor.com/29A6BwrbH8wAAAAi/appear-hi.gif">
+<h3 align="center">A full stack developer and WordPress Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbhutkar&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshbhutkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshbhutkar" alt="yogeshbhutkar" /></a> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://yogeshbhutkar.vercel.app/](https://yogeshbhutkar.vercel.app/)
 
-- 💬 Ask me about **MERN stack, flutter**
+- 💬 Ask me about **WordPress, PHP, JavaScript, TypeScript, MERN stack, flutter**
 
-- 📫 How to reach me **yogeshbhutkar3@gmail.com**
+- 📫 How to reach me **yogesh.bhutkar@rtcamp.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1O1mfg8vLOLSHdHXdhK1nh0O1xVIGvu7t/view?usp=share_link](https://drive.google.com/file/d/1O1mfg8vLOLSHdHXdhK1nh0O1xVIGvu7t/view?usp=share_link)
 
