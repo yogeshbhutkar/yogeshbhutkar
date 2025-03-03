@@ -1,9 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Yogesh Bhutkar</h1>
-<h3 align="center">A Full Stack developer.</h3>
+![Header](./Header.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbhutkar&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshbhutkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshbhutkar" alt="yogeshbhutkar" /></a> </p>
 
 - 🌱 I’m currently learning **Go Lang**
 
@@ -28,3 +25,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogeshbhutkar/yogeshbhutkar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/yogeshbhutkar/yogeshbhutkar/output/github-snake.svg" />
 </picture>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshbhutkar" alt="yogeshbhutkar" /></a> </p>
