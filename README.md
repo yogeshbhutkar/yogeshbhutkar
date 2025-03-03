@@ -29,3 +29,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yogeshbhutkar&limit=5&theme=swift&combine_all_yearly_contributions=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshbhutkar/yogeshbhutkar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogeshbhutkar/yogeshbhutkar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yogeshbhutkar/yogeshbhutkar/output/github-snake.svg" />
+</picture>
